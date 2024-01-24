@@ -1,2 +1,5 @@
 1804.00792.pdf
 models/mistral-7b-2.20bpw.gguf
+venv/
+.venv
+.ipynb_checkpoints
